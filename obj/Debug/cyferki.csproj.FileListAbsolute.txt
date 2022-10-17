@@ -1,0 +1,11 @@
+C:\Users\dolezinski.jan\Source\Repos\cyferki\cyferki\bin\Debug\cyferki.exe.config
+C:\Users\dolezinski.jan\Source\Repos\cyferki\cyferki\bin\Debug\cyferki.exe
+C:\Users\dolezinski.jan\Source\Repos\cyferki\cyferki\bin\Debug\cyferki.pdb
+C:\Users\dolezinski.jan\Source\Repos\cyferki\cyferki\obj\Debug\cyferki.csproj.AssemblyReference.cache
+C:\Users\dolezinski.jan\Source\Repos\cyferki\cyferki\obj\Debug\cyferki.csproj.SuggestedBindingRedirects.cache
+C:\Users\dolezinski.jan\Source\Repos\cyferki\cyferki\obj\Debug\cyferki.Form1.resources
+C:\Users\dolezinski.jan\Source\Repos\cyferki\cyferki\obj\Debug\cyferki.Properties.Resources.resources
+C:\Users\dolezinski.jan\Source\Repos\cyferki\cyferki\obj\Debug\cyferki.csproj.GenerateResource.cache
+C:\Users\dolezinski.jan\Source\Repos\cyferki\cyferki\obj\Debug\cyferki.csproj.CoreCompileInputs.cache
+C:\Users\dolezinski.jan\Source\Repos\cyferki\cyferki\obj\Debug\cyferki.exe
+C:\Users\dolezinski.jan\Source\Repos\cyferki\cyferki\obj\Debug\cyferki.pdb
